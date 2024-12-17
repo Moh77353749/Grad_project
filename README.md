@@ -32,3 +32,9 @@ Method: Data-driven approach using experimental battery cycle data.
 Objective: Predict when the battery's health falls below 80% of its initial capacity.
 
 Techniques: Curve fitting and polynomial regression to model the relationship between battery cycles and capacity loss.
+
+📊 Simulation Results
+
+The key simulation results include:
+
+SOH Estimation: Plots of battery health vs. cycle count highlight battery aging effects.
